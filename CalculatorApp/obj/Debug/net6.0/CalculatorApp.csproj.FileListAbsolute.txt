@@ -1,5 +1,0 @@
-C:\Users\Windows 10\source\repos\TestCalculator\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.AssemblyReference.cache
-C:\Users\Windows 10\source\repos\TestCalculator\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Windows 10\source\repos\TestCalculator\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
-C:\Users\Windows 10\source\repos\TestCalculator\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
-C:\Users\Windows 10\source\repos\TestCalculator\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
