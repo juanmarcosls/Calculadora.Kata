@@ -12,7 +12,6 @@ namespace UnitTest1
             var caracter = "";
 
             var resultado = calculadora.Calcular(caracter);
-
             Assert.Equal(0, resultado);
         }
 
@@ -24,7 +23,6 @@ namespace UnitTest1
         public void DosNumerosSeparadosPorComaSeSuman(string numeros, int esperado)
         {
             var calculadora = new Calculator();
-
             var resultado = calculadora.Calcular(numeros);
 
             Assert.Equal(esperado, resultado);
@@ -39,7 +37,6 @@ namespace UnitTest1
         public void NumerosSeparadosPorComaSeSuman(string caracter, int esperado)
         {
             var calculadora = new Calculator();
-
             var resultado = calculadora.Calcular(caracter);
 
             Assert.Equal(esperado, resultado);
@@ -54,7 +51,6 @@ namespace UnitTest1
         public void NumerosSeparadosPorCualquierDelimitadorSeSuman(string caracter, int esperado)
         {
             var calculadora = new Calculator();
-
             var resultado = calculadora.Calcular(caracter);
 
             Assert.Equal(esperado, resultado);
@@ -78,7 +74,6 @@ namespace UnitTest1
             {
                 exception = ex;
             }
-
             Assert.Contains("No se pueden utilizar numeros negativos", exception.Message);
 
         }

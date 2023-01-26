@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 namespace Calculadora
 {
@@ -16,7 +12,6 @@ namespace Calculadora
             }
 
             var numeros = caracter.Split(',', ';', ':', '|', ' ');
-
             var numerosInvalidos = numeros.Where(num => !int.TryParse(num, out int numeroInvalido))
                                           .Any();
 

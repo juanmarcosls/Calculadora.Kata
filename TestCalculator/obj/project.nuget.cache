@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7lYLRiKQEMcZ6cAST7KlGPII0to/ASO8Ix3In3F/vs/wSLhlNM035N0wK4ZCal39RYe8/okXoYUnqLgFvgdEw==",
+  "dgSpecHash": "06MA57hkYfWT8W4fLYHWa1Fng7VuaM/PGOWIKgyOfa3+wMFN9zV2CIDR2dUSSHTlN2hGk2wlr4oBdqnnYrpJpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

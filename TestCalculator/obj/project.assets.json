@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
       "projectName": "TestCalculator",
-      "projectPath": "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\TestCalculator\\TestCalculator.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\TestCalculator\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\TestCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "C:\\Users\\Windows 10\\source\\repos\\TestCalculator\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\Desktop\\TestCalculator\\Calculadora\\Calculadora.csproj"
             }
           }
         }
